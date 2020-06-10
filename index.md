@@ -4,3 +4,8 @@
 
 layout: default
 ---
+
+Please visit to learn more about fostering and volunteering: 
+
+[![CAWS](https://static.caws.org/logo/logoFullSideways.png)](https://caws.rescueden.org)
+
