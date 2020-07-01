@@ -5,7 +5,12 @@
 layout: default
 ---
 
+
+![RescueDen](/static/logo.png)
+RescueDen is a software platform to help animal shelters and rescues to engage, educate, and communicate with fosters and volunteers.  The software interfaces with your existing animal and people management software to provide a customized tailored view to your volunteers. 
+
+## Fostering
 Please visit to learn more about fostering and volunteering: 
 
-[![CAWS](https://static.caws.org/logo/logoFullSideways.png)](https://caws.rescueden.org)
+<a href="https://caws.rescueden.org"><img src="https://static.caws.org/logo/logoFullText.png" width="75"></a>
 
