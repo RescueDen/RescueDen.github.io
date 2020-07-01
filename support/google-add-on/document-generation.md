@@ -10,6 +10,7 @@ The base document is treated as a template, where anything between {{ and }} is 
 
 # Functions
 Functions can be used for special format cases.  Place function between {%raw%}{{ }}{%endraw%}.
+
 |Function|Info|
 |---|---|
 |`his .`|Used to place either his or hers into the document.|
