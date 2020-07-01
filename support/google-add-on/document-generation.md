@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /support/google-add-on/document-generation
-published: false
+title: Custom Documentation Generation Support
 ---
 
 # Custom Documentation

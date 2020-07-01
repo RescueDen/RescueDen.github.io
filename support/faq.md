@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /support/faq
-published: false
+title: RescueDen F.A.Q.
 ---
 
 # RescueDen F.A.Q
