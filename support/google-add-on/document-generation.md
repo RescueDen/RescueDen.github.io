@@ -3,8 +3,6 @@ layout: page
 permalink: /support/google-add-on/document-generation
 title: Custom Documentation Generation Support
 ---
-
-# Custom Documentation
 The custom adoption paperwork adds specific information about the animal so you can automatically send a single file.  You can change or add additional documents using the folder in your RescueDen Google Drive.
 
 # Templates

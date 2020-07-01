@@ -4,7 +4,6 @@ permalink: /support/faq
 title: RescueDen F.A.Q.
 ---
 
-# RescueDen F.A.Q
 These are some issues and solutions that may resulting in user issues including
 	
 * Not having access to the full site
