@@ -6,7 +6,7 @@ title: Install & Overview
 The RescueDen Admin add-on is designed to automate many of the common tasks associated with receiving and sending email.   
 
 # Installation 
-1. From a desktop computer open the [RescueDen Admin](https://gsuite.google.com/u/1/marketplace/app/caws_rescueden_admin/576875918203?hl=en&pann=gaw) page.
+1. From a desktop computer open the [RescueDen Admin](https://gsuite.google.com/u/1/marketplace/app/caws_rescueden_admin/576875918203?hl=en&pann=gaw) install page.  This link will only work if you are logged into you gMail account.  If the link does not load, open the [marketplace](https://gsuite.google.com/u/2/marketplace) and search for RescueDen.
 	* Google Chrome works best for the install and authorization.  After authorization any browser can be used.
 	* Click install and follow directions.
 	![Install Screen](installImages/installScreen.png)
