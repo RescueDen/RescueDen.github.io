@@ -8,5 +8,5 @@ This is the support for RescueDen Admin users and is broken down into the follow
 
 * [Frequently Asked Questions (User Management)](/support/faq)
 * RescueDen Admin (google add on)
-	* [Installation](/support/google-add-on/install)
+	* [Getting Started](/support/google-add-on/getting-started)
 	* [Document Generation](/support/google-add-on/document-generation)
