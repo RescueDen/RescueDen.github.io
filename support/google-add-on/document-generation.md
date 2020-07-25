@@ -44,8 +44,10 @@ Functions can be used for special format cases.  Place function between {%raw%}{
 
 |Function|Info|
 |---|---|
-|`his .`|Used to place either his or hers into the document.|
-|`him .`|Used to place either him or her into the document.|
+|`heShe .`|Used to place either he or she into the document.|
+|`himHer .`|Used to place either him or her into the document.|
+|`hisHer .`|Used to place either his or her into the document.|
+|`hisHers .`|Used to place either his or hers into the document.|
 |`formatDate .Date` |Any date can be formated using this function.|
 |`yesNo .Boolean`|Format any boolean as yes or no|
 |`picture 200 .`|Insert the animal picture with the specified width|
