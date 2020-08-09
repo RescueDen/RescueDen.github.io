@@ -12,6 +12,7 @@ The base document is treated as a template, where anything between {{ and }} is 
 * Id
 * ShelterId
 * Name
+* DisplayName
 * Microchipped
 * MicrochipImplantedBy
 * Microchip
