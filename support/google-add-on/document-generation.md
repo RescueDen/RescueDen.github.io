@@ -53,3 +53,21 @@ Functions can be used for special format cases.  Place function between {%raw%}{
 |`yesNo .Boolean`|Format any boolean as yes or no|
 |`picture 200 .`|Insert the animal picture with the specified width|
 |`pageBreak`|Force a page break at this location|
+
+# Metadata
+You can add specific metadata to documents that are used by the document generator outside of the document.
+
+
+|Metadata|Info|
+|---|---|
+|`emailTemplateId`|When the document is selected, the referenced document is used for email body.|
+|`emailSubject`|When the document is selected, the provided text is used an email subject.|
+
+The metadata must be provided in json format and in the document's [description field](https://www.bettercloud.com/monitor/the-academy/how-to-add-descriptions-to-google-docs-for-better-docs-search/).
+
+```json
+{
+	"emailTemplateId":"1NrkUAoaefadPEJOwfMjeh8H7SqmhJMHafeaX1HF9_l234ad",
+	"emailSubject":"{%raw%}{{.DisplayName}}{%endraw%}'s Adoption"
+}
+````
